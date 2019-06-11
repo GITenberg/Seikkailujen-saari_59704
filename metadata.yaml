@@ -1,0 +1,30 @@
+_repo: Seikkailujen-saari_59704
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kare, Aito
+    gutenberg_agent_id: '48225'
+    url: http://www.gutenberg.org/2009/agents/48225
+    wikipedia: https://fi.wikipedia.org/wiki/Aito_Kare
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2019-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59704'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Seikkailujen saari
+url: http://www.gutenberg.org/ebooks/59704
